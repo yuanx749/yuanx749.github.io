@@ -5,4 +5,3 @@ https://yuanx749.github.io/2048-ai-tk/
 https://yuanx749.github.io/master-thesis/
 https://yuanx749.github.io/deep-vaccine/
 https://yuanx749.github.io/complex_systems/
-https://yuanx749.github.io/flight-cancellation-predictor/

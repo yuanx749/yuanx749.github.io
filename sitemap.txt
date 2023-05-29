@@ -6,3 +6,5 @@ https://yuanx749.github.io/master-thesis/
 https://yuanx749.github.io/deep-vaccine/
 https://yuanx749.github.io/vae-mixin-pytorch/
 https://yuanx749.github.io/complex_systems/
+https://yuanx749.github.io/phasty/
+https://yuanx749.github.io/py-cdhit/

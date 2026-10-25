@@ -8,6 +8,7 @@ https://yuanx749.github.io/phasty/
 https://yuanx749.github.io/vae-mixin-pytorch/
 https://yuanx749.github.io/config-argument-parser-docs/
 https://yuanx749.github.io/py-cdhit/
+https://yuanx749.github.io/awesome-bioinformatics-software/
 https://yuanx749.github.io/master-thesis/
 https://yuanx749.github.io/beetle/
 https://yuanx749.github.io/lgtm/

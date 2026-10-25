@@ -9,5 +9,5 @@ https://yuanx749.github.io/vae-mixin-pytorch/
 https://yuanx749.github.io/config-argument-parser-docs/
 https://yuanx749.github.io/py-cdhit/
 https://yuanx749.github.io/master-thesis/
-https://yuanx749.github.io/bcell/
+https://yuanx749.github.io/beetle/
 https://yuanx749.github.io/lgtm/
